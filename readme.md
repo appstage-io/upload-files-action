@@ -1,6 +1,6 @@
 # Appstage.io Upload Files Github Action
 
-![GitHub Release](https://img.shields.io/github/v/release/appstage-io/upload-file-action)
+![GitHub Release](https://img.shields.io/github/v/release/appstage-io/upload-files-action)
 
 Github action to ease uploading of multiple files to [Appstage.io](https://www.appstage.io) project live builds.
 
